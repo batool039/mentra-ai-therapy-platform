@@ -1,0 +1,15 @@
+[
+  {
+    "group_id": "G_WORKPLACE_STRESS_1",
+    "type": "Workplace Stress",
+    "users": [
+      "U101",
+      "U102",
+      "U103",
+      "U202",
+      "U203"
+    ],
+    "suggested_time": "Saturday 6:00 PM",
+    "payment_status": "Sandbox Success"
+  }
+]
